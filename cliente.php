@@ -59,7 +59,7 @@
         <div id='error' class="invalid-feedback"></div>
         <form>
             <tr>
-            <label>codigo</label>
+            <label>codigo de cliente</label>
             <input type="text" name="codigo" id="codigo" style="text-transform: uppercase;" class='form-control text-capitalize'>
             <label>nombre</label>
             <input type="text" name="nombre" id="nombre" style="text-transform: uppercase;" class='form-control text-capitalize'>
